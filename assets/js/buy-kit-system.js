@@ -57,7 +57,7 @@ $(document).ready(() => {
         e.preventDefault(); // Prevent form submission
     });
 
-    $.getJSON('/assets/json/products.json', (data) => {
+    $.getJSON('assets/json/products.json', (data) => {
         for (let grade in grades) {
             let gradeAbbr = grades[grade]; 
 

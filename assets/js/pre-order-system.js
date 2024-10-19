@@ -52,7 +52,7 @@ $(document).ready(() => {
     });
 
     // Fetch the item details from the JSON file
-    $.getJSON('/assets/json/pre-order-items.json', (data) => {
+    $.getJSON('assets/json/pre-order-items.json', (data) => {
         data.forEach((item) => {
             if (item.id == itemId) {
                 itemDetails = {
