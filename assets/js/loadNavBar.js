@@ -1,3 +1,3 @@
 $(document).ready(()=>{
-    $("#navbar").load("views/navbar.html")
+    $("#navbar").load("navbar.html")
 })

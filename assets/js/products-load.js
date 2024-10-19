@@ -26,7 +26,7 @@ $(document).ready(() => {
             // Now append each item in the respective grade's div
             kits.forEach((item) => {
                 $(`#${gradeAbbr}`).append(`
-                    <a href="views/buyKit.html?item=${item.id}&grade=${gradeAbbr}" class="flex flex-col justify-start w-full lg:w-[500px] gap-4 shadow-2xl rounded-2xl p-4 min-h-[580px] hover:scale-125 hover:m-5 bg-white transition-all ease-out cursor-pointer border-gray-300 border-2 hover:border-green-500 hover:border-[10px] hover:shadow-green-900">
+                    <a href="buyKit.html?item=${item.id}&grade=${gradeAbbr}" class="flex flex-col justify-start w-full lg:w-[500px] gap-4 shadow-2xl rounded-2xl p-4 min-h-[580px] hover:scale-125 hover:m-5 bg-white transition-all ease-out cursor-pointer border-gray-300 border-2 hover:border-green-500 hover:border-[10px] hover:shadow-green-900">
                         <div class="w-full   h-72 bg-[url('${item.image}')] bg-cover bg-center rounded-lg"></div>
                         <h1 class="font-bold text-2xl">${item.name}</h1>
                         <p class="w-3/4 text-xl">${item.description}</p>
