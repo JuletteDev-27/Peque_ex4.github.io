@@ -1,0 +1,93 @@
+[ 
+    {
+        "id": 1,
+        "name": "HG 1/144 RX-78-2 Gundam [Revive]",
+        "grade": "High Grade",
+        "scale": "1/144",
+        "release_date": "2024-11-15",
+        "price": "570 PHP",
+        "image": "https://i.ebayimg.com/images/g/22wAAOSwGthfKHXj/s-l1200.jpg"
+      },
+      {
+        "id": 2,
+        "name": "MG 1/100 Freedom Gundam 2.0",
+        "grade": "Master Grade",
+        "scale": "1/100",
+        "release_date": "2024-12-10",
+        "price": "1824 PHP",
+        "image": "https://www.ohmygundam.com.my/image/ohmygundam/image/cache/data/all_product_images/product-1033/Tg5V2OHw6549f1005b8b6_1699344640-1193x1500.jpg"
+      },
+      {
+        "id": 3,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh31nW4lX5Ph5rK_oyxxDx358l0XXHjtMyrErjyCQLT45y2IgqQEKCoS5vPsm8LVT9SUbuu9y5A4tQ7NAP4i-J4YefqS6WzZsKIfzyhq9F6QinoKz7DUqPCcFLR023ZyqbpgxdyrRivzmY/s1600/rg+1%253A144+sazabi+box+art.jpg",
+        "name": "RG 1/144 Sazabi",
+        "grade": "Real Grade",
+        "scale": "1/144",
+        "release_date": "2025-01-05",
+        "price": "1444 PHP"
+      },
+      {
+        "id": 4,
+        "image": "https://cdnb.artstation.com/p/assets/images/images/036/310/931/large/zen_jirakun-gundam-barbatos-lupus-clean-copy.jpg?1617299314",
+        "name": "MG 1/100 Barbatos Lupus Rex",
+        "grade": "Master Grade",
+        "scale": "1/100",
+        "release_date": "2025-01-20",
+        "price": "2090 PHP"
+      },
+      {
+        "id": 5,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0jqiVFB8iDyG8f06FiELjLkzFrEvgNrh-SFK40gCA6C8kGjjaAHuwhUY5lmE0j2CtzmrBS14W_4A3CyGeneOBnImjo-ho3rYpariKMHI0K3oo5d5XaMTlXxg523wiMgSzXFeHlyGK9I3n3EMrHG87kx4DVGGy0XFjX3VwzWosmLa-F51lVf8zIHY/s16000-rw/hg%20gundam%20aerial%20rebuild%20box%20art.JPG",
+        "name": "HG 1/144 Gundam Aerial Rebuild",
+        "grade": "High Grade",
+        "scale": "1/144",
+        "release_date": "2024-11-25",
+        "price": "684 PHP"
+      },
+      {
+        "id": 6,
+        "image": "https://i.ebayimg.com/images/g/-LIAAOSwU7BhPF9n/s-l1200.jpg",
+        "name": "RG 1/144 Nu Gundam HWS",
+        "grade": "Real Grade",
+        "scale": "1/144",
+        "release_date": "2024-12-15",
+        "price": "1900 PHP"
+      },
+      {
+        "id": 7,
+        "image": "https://external-preview.redd.it/6d3keIMz1ESydor0EFRp_NPW6AVshsj3OYRiLADs4X8.jpg?auto=webp&s=10f58a5332f2dc9a0f0954cfb65d09c7ebd9b146",
+        "name": "MGEX 1/100 Unicorn Gundam",
+        "grade": "Master Grade Extreme",
+        "scale": "1/100",
+        "release_date": "2025-02-28",
+        "price": "4560 PHP"
+      },
+      {
+        "id": 8,
+        "image": "https://plastiq.pl/img/products/90/9/6_max.jpg",
+        "name": "HG 1/144 Zaku II [Char Aznable Custom]",
+        "grade": "High Grade",
+        "scale": "1/144",
+        "release_date": "2024-12-01",
+        "price": "570 PHP"
+      },
+      {
+        "id": 9,
+        "image": "https://i.ebayimg.com/images/g/v6QAAOSwEt9e11in/s-l1200.webp",
+        "name": "MG 1/100 Gundam Heavyarms EW",
+        "grade": "Master Grade",
+        "scale": "1/100",
+        "release_date": "2025-01-15",
+        "price": "2090 PHP"
+      },
+      {
+        "id": 10,
+        "image": "https://argamahobby.com/cdn/shop/products/RGWingGundamZeroEW_1142x700.jpg?v=1606800219",
+        "name": "RG 1/144 Wing Gundam Zero Custom",
+        "grade": "Real Grade",
+        "scale": "1/144",
+        "release_date": "2024-12-20",
+        "price": "1444 PHP"
+      }
+]
+  

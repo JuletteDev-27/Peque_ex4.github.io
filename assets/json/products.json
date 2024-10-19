@@ -1,0 +1,330 @@
+{
+  "HG": [
+    {
+      "id": 1,
+      "name": "HG RX-78-2 Gundam Revive (1/144)",
+      "description": "A modernized version of the classic RX-78-2, featuring better articulation and build quality.",
+      "price": 1299.99,
+      "remaining_stock": 12,
+      "image": "https://i.ebayimg.com/images/g/22wAAOSwGthfKHXj/s-l1200.jpg"
+    },
+    {
+      "id": 2,
+      "name": "HG Unicorn Gundam (Destroy Mode) (1/144)",
+      "description": "Known for its detailed transformation between Unicorn and Destroy modes.",
+      "price": 1499.99,
+      "remaining_stock": 8,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfA5EHk5hPNycfNLUSWzS-DF2qqgWf2TCKUFpo8HwjETZrTAvTeiJ2IMLMXYF7jxCBhm4Gg7mEPoj_b7vdgIU_WEKEWlgf7SuHReWodtJf7GLWwRPGb6kIupCpyVkWbLm9hRIzPiyIdaS-/s1600/20160524163701d85.jpg"
+    },
+    {
+      "id": 3,
+      "name": "HG Gundam Barbatos (1/144)",
+      "description": "A fan-favorite from 'Iron-Blooded Orphans' with excellent design and articulation.",
+      "price": 1249.99,
+      "remaining_stock": 15,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNuZext1HQCr2fG0n_bBhGjoAnHUz_Te-6AOkaSFVU92ToPbHgVHQGFRDRs-h6p4JOLk38AiVdpHfMtuFUifURq7MeMPQYZ1PZmahBNb1PC9DWc_b3SpP7dayUTOmFXaanlii-K4b01UG0/s1600/hg-gundam-barbatos-lupus-hq+%25281%2529.jpg"
+    },
+    {
+      "id": 4,
+      "name": "HG Sinanju (1/144)",
+      "description": "A large and beautifully detailed kit, popular for its intricate decals and imposing design.",
+      "price": 1799.99,
+      "remaining_stock": 6,
+      "image": "https://i.ebayimg.com/images/g/cjgAAOSwRgBixwrU/s-l1200.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HG Wing Gundam Zero Custom (1/144)",
+      "description": "From 'Gundam Wing: Endless Waltz,' with angelic wings and a sleek, memorable design.",
+      "price": 1449.99,
+      "remaining_stock": 10,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktBFZuHbQcCH70MzCkWI3W6xswBNmjl6UwtNpsIXc_ERBFFf6-KIMFMhceBvn1AR_5kjAgcoTe_Rwa2nxhcNf4gYuTD3y3Jbx3CARg0bOmVEYEkpi8KAg4R07B_HhJZJrMY-yATWJ2c1r/s1600/box_art_hgbf_try__wing_gundam_zero_custom_by_celestial_design-d8jghao.jpg"
+    },
+    {
+      "id": 6,
+      "name": "HG Zaku II (1/144)",
+      "description": "An iconic mobile suit with great flexibility and design.",
+      "price": 1399.99,
+      "remaining_stock": 14,
+      "image": "https://i.ebayimg.com/images/g/cZcAAOSwx2liQ3u9/s-l1200.jpg"
+    },
+    {
+      "id": 7,
+      "name": "HG Gundam Astray Red Frame (1/144)",
+      "description": "A sleek and flexible kit with an iconic katana weapon.",
+      "price": 1499.99,
+      "remaining_stock": 8,
+      "image": "https://www.gunjap.net/site/wp-content/uploads/2013/08/11.jpg"
+    },
+    {
+      "id": 8,
+      "name": "HG Gundam Exia (1/144)",
+      "description": "A fan-favorite kit with great articulation and futuristic design.",
+      "price": 1599.99,
+      "remaining_stock": 11,
+      "image": "https://i.ebayimg.com/images/g/C3gAAOSw2mNhQCVm/s-l1200.jpg"
+    },
+    {
+      "id": 9,
+      "name": "HG Strike Freedom Gundam (1/144)",
+      "description": "A sleek and elegant kit with wings and beam weaponry.",
+      "price": 1699.99,
+      "remaining_stock": 5,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhESt6GQabQ7BfUAu2Lqc3C0br82Cgl8aaGFzdc59e1F1G0Tl2_MginfKPAN5tZYyQ6Ey8Xew9qMtTo0xqPoysA9S-OHcuX9c1a53dIpLzG5SOUQLHhPA16VsFy0Fta_Tap2OshSRNzsYgNV5MDUQ251RQHyF5jDUotnRRXMWUYsghpRlpAY3I1u74tsw/s2048/IMG_2735.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "HG Gundam 00 Raiser (1/144)",
+      "description": "Known for its excellent design and articulation, and ability to combine with the 00 Raiser.",
+      "price": 1599.99,
+      "remaining_stock": 10,
+      "image": "https://gameknight.ca/cdn/shop/files/81nigLBNk4L_800x.jpg?v=1686761104"
+    }
+  ],
+  "RG": [
+    {
+      "id": 1,
+      "name": "RG RX-78-2 Gundam (1/144)",
+      "description": "The first RG kit, revered for its intricate detail and articulation at a small scale.",
+      "price": 1749.99,
+      "remaining_stock": 5,
+      "image": "https://houseofhobbies.com/cdn/shop/products/IMG_6262_2848x.jpg?v=1584549691"
+    },
+    {
+      "id": 2,
+      "name": "RG Unicorn Gundam (1/144)",
+      "description": "Famous for its transformation gimmicks and detail-packed build.",
+      "price": 1999.99,
+      "remaining_stock": 4,
+      "image": "https://3.bp.blogspot.com/-5hXr0S19AOs/WXGHctZPQTI/AAAAAAAGsLc/OylmXsRDba4Pjs7ZNbpkuKKMPNwmpH71gCLcBGAs/s1600/rg-unicorn-gundam%2B%25281%2529.jpg"
+    },
+    {
+      "id": 3,
+      "name": "RG Sazabi (1/144)",
+      "description": "A highly praised kit for its size, articulation, and incredible detail in Char Aznable’s iconic mobile suit.",
+      "price": 2149.99,
+      "remaining_stock": 7,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh31nW4lX5Ph5rK_oyxxDx358l0XXHjtMyrErjyCQLT45y2IgqQEKCoS5vPsm8LVT9SUbuu9y5A4tQ7NAP4i-J4YefqS6WzZsKIfzyhq9F6QinoKz7DUqPCcFLR023ZyqbpgxdyrRivzmY/s1600/rg+1%253A144+sazabi+box+art.jpg"
+    },
+    {
+      "id": 4,
+      "name": "RG Zaku II (1/144)",
+      "description": "One of the best RG kits, known for its solid build, flexibility, and iconic design.",
+      "price": 1599.99,
+      "remaining_stock": 9,
+      "image": "https://gundambuilder.com/wp-content/uploads/2018/09/mkit-box-rg-zaku-ii-front.jpg"
+    },
+    {
+      "id": 5,
+      "name": "RG Wing Gundam Zero EW (1/144)",
+      "description": "A standout with its angel wings and beautiful proportions, from the Endless Waltz series.",
+      "price": 1849.99,
+      "remaining_stock": 6,
+      "image": "https://www.prexhobby.com/cdn/shop/files/1_8aca6c65-c7be-44d6-aa39-9bae50a115ac.jpg?v=1724692072&width=2048"
+    },
+    {
+      "id": 6,
+      "name": "RG Destiny Gundam (1/144)",
+      "description": "Known for its elegant design and iconic winged silhouette.",
+      "price": 1799.99,
+      "remaining_stock": 10,
+      "image": "https://www.toymana.com/cdn/shop/files/61616_1_1800x1800.jpg?v=1683079879"
+    },
+    {
+      "id": 7,
+      "name": "RG Justice Gundam (1/144)",
+      "description": "A beautifully articulated kit with striking colors and design.",
+      "price": 2099.99,
+      "remaining_stock": 8,
+      "image": "https://www.gunjap.net/site/wp-content/uploads/2012/06/1479.jpg"
+    },
+    {
+      "id": 8,
+      "name": "RG Crossbone Gundam X1 (1/144)",
+      "description": "A smaller kit packed with incredible detail and articulation.",
+      "price": 1949.99,
+      "remaining_stock": 12,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJl6THISWaUeMTrq7pC7F_ZLPM3OaDHo5FP3LvWjx-ck51B38hqJ3jtUGYtQFRIK9y9DrqO-JR5dXd4f_1GrS-_7nsl7BUCpQlCMzDoqy7mRGByxkG27XUifcr22OzxN7kPrF1ayqkF2ZA/s1600-rw/RG_crossbone-gundam_x1-Box_art.JPG"
+    },
+    {
+      "id": 9,
+      "name": "RG Nu Gundam (1/144)",
+      "description": "An impressive and imposing kit with iconic fin funnels.",
+      "price": 2249.99,
+      "remaining_stock": 4,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqplv0sw_iAYZvSMo8YeGlOcY8BMaRVdr44N8BqdIIOqSNx0M1gXxCENwvi5q6QdEldvN7hfa6mvwWnwbAnCtT3ZtGijQJ_MOXvaGsGDIzZ1U7Ge_DSD08SPo5AE2dr27sdMvuCIl_xSJBsgYtMACLgxFS8iGSU7meo9AYCwtzPzlkCpyozZ3bh8E/s16000-rw/rg-rx-93ff-nu-gundam-box-art.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "RG Strike Freedom Gundam (1/144)",
+      "description": "Known for its beautiful gold inner frame and iconic wings.",
+      "price": 1999.99,
+      "remaining_stock": 9,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_DYRz4UQeL49gHCkCnWOD4iPuOPHg3Nv_6OP1_mjhVQfrSlTOr__lR2zB5pqeICtZUC4crkRQOIPAykq869r9wm1Tis77eh5KC2mEO7QlsRceavlPrb5sXwhBFd_0r7A9DaC_T7UJoDY/s1600/RG_Strike_Freedom_Gundam_Boxart.png"
+    }
+  ],
+  "MG": [
+    {
+      "id": 1,
+      "name": "MG RX-78-2 Gundam Ver. 3.0 (1/100)",
+      "description": "Considered one of the best MG versions of the original Gundam, with enhanced articulation and detail.",
+      "price": 2499.99,
+      "remaining_stock": 10,
+      "image": "https://oeshop.co.uk/cdn/shop/products/5700_460x@2x.jpg?v=1643673230"
+    },
+    {
+      "id": 2,
+      "name": "MG Gundam Exia (1/100)",
+      "description": "A fan-favorite from 'Gundam 00' with incredible detail and flexibility.",
+      "price": 2699.99,
+      "remaining_stock": 7,
+      "image": "https://www.prexhobby.com/cdn/shop/files/1_bb63bceb-41f8-40e2-a789-2f6b85a3e488_1024x.jpg?v=1724762855"
+    },
+    {
+      "id": 3,
+      "name": "MG Sinanju Ver. Ka (1/100)",
+      "description": "Known for its massive size, gorgeous design, and intricate decals designed by Hajime Katoki.",
+      "price": 3299.99,
+      "remaining_stock": 4,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXQQri9MRfLAJKcnPynkCTvqcQ17iKNXn_DueGJCSJLStpIFwq7taXDbnJ5Suly3kqGtP_uw_HLIoOcZpabJyanZgD7Si90v1nW5SRCg2NQAIz2YL8lS4tW7Ajvt7ZTt3gw2EN8sdjUQ5GXNgQoM-kOVPDKdeSoTjAQPLPxpSWrpID7Nzf_SKsgKLPLQ/s2048/IMG_3103.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "MG Wing Gundam Zero Custom EW Ver. Ka (1/100)",
+      "description": "Popular for its sleek redesign by Katoki, with sharp wings and an elegant form.",
+      "price": 2799.99,
+      "remaining_stock": 5,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrTP3ACZuuPY5aVbP0ZVDiKPrXR4nlkdy1W1WG4lE0i1xGvEtCvtp29I4ZAJvUi0gCeuJ4NrdwKo9BesSGqBb9JyFD-rCTY7vgTZ5J4CApO4zkERXcSK8ekNEUFlP1YRrPmrE6_TSNkR_J/s16000-rw/mg-wing-gundam-zero-ew-ver-ka-box-art.jpg"
+    },
+    {
+      "id": 5,
+      "name": "MG Sazabi Ver. Ka (1/100)",
+      "description": "Another massive and detailed kit by Katoki, praised for its presence and articulation.",
+      "price": 3499.99,
+      "remaining_stock": 3,
+      "image": "https://www.zonegunpla.com/cdn/shop/products/FIGBAN83111_1.jpg?v=1676637623"
+    },
+    {
+      "id": 6,
+      "name": "MG Gundam Astray Red Frame (1/100)",
+      "description": "A sleek and flexible kit with an iconic katana weapon.",
+      "price": 2599.99,
+      "remaining_stock": 9,
+      "image": "https://down-ph.img.susercontent.com/file/ph-11134207-7r98o-ly4zsxe7swo5a5"
+    },
+    {
+      "id": 7,
+      "name": "MG Destiny Gundam (1/100)",
+      "description": "A striking kit with impressive wings and an imposing presence.",
+      "price": 2999.99,
+      "remaining_stock": 5,
+      "image": "https://www.actionfigurenow.com/wp-content/uploads/2024/02/57_113c9117-2393-48d0-a4ec-5accf9254ca0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "MG Zaku II Char Custom (1/100)",
+      "description": "An iconic and solidly built kit, representing Char Aznable’s famous mobile suit.",
+      "price": 2399.99,
+      "remaining_stock": 6,
+      "image": "https://i.namu.wiki/i/rxNjqWb77TJzStujtL7x_iej693yDIyJUvNHdt16vHV7Q-i_2O-lWU9Zhv4_mzoqiTQViNTJwx1XJJUKEs3y0g.webp"
+    },
+    {
+      "id": 9,
+      "name": "MG Gundam F91 (1/100)",
+      "description": "A compact and detailed mobile suit with a sleek design.",
+      "price": 2299.99,
+      "remaining_stock": 12,
+      "image": "https://i.ebayimg.com/images/g/4boAAOSw1Xtjl7fG/s-l1200.jpg"
+    },
+    {
+      "id": 10,
+      "name": "MG Freedom Gundam (1/100)",
+      "description": "A flexible and striking kit with iconic wing-mounted cannons.",
+      "price": 2799.99,
+      "remaining_stock": 8,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWBL_1ia1poQuckvEx1Nq3DYPnCxAHjCg3xypl9aReWkSPcDexh7pzSc0h5eWhsJqXQtf8Q9zoCMw_6cmOW5Do2OZpog-Ple9QnkrvGdf-olp7_lxbAs9TQ_-YLXYzMay5WoahKOXYB5o/s1600/12932941_10154160601178939_7489398878148181748_n.png"
+    }
+  ],
+  "PG": [
+    {
+      "id": 1,
+      "name": "PG RX-78-2 Gundam (1/60)",
+      "description": "The ultimate version of the original Gundam, known for its complexity and size.",
+      "price": 8999.99,
+      "remaining_stock": 2,
+      "image": "https://voltztoys.ca/cdn/shop/files/PGUnleashedRX-78-2Gundam_828x528_12002b15-a9a4-48f5-853b-e892c774503f_828x527.png?v=1697565155"
+    },
+    {
+      "id": 2,
+      "name": "PG Unicorn Gundam (1/60)",
+      "description": "Highly sought after for its transformation features and LED light system.",
+      "price": 9999.99,
+      "remaining_stock": 3,
+      "image": "https://img.lazcdn.com/g/p/ae6e29074dd0e40539836356eb8e2596.jpg_960x960q80.jpg_.webp"
+    },
+    {
+      "id": 3,
+      "name": "PG Strike Freedom Gundam (1/60)",
+      "description": "A fan-favorite with massive wings and beam weaponry, considered one of the best PG kits.",
+      "price": 12499.99,
+      "remaining_stock": 1,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9ObD8GNKGs-073tbEnzdZ9CP0Uj2z_l6nYya8cqIKYtGGK21DGUgHBWDIOGOC3FKvrfA7Gt86cN6-EYAqjiES-tLpk6-CsRoQJYOtfNQVj0mkVocIig1rXCnotlkbMpezepavQk0XCM/s1600/2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PG 00 Raiser (1/60)",
+      "description": "Known for its innovative engineering and the ability to combine with the 0 Raiser unit.",
+      "price": 11499.99,
+      "remaining_stock": 2,
+      "image": "https://www.ohmygundam.com.my/image/ohmygundam/image/cache/data/all_product_images/product-1057/PG%2000%20Raiser%202.2-1500x833.JPG"
+    },
+    {
+      "id": 5,
+      "name": "PG Zeta Gundam (1/60)",
+      "description": "Famous for its ability to transform into its wave rider mode, though complex to build.",
+      "price": 9499.99,
+      "remaining_stock": 4,
+      "image": "https://www.comickazi.com/cdn/shop/products/Zeta-Gundam_2a1acc52-a989-4965-9515-024a66f12abe_1024x1024@2x.jpg?v=1608251222"
+    },
+    {
+      "id": 6,
+      "name": "PG Gundam Exia (1/60)",
+      "description": "A beautifully engineered kit with stunning articulation and attention to detail.",
+      "price": 10999.99,
+      "remaining_stock": 2,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggyJUjYNHS-Ao-F3BpWYVv8OSU9YxCunDioJRGg-CR3joB1aJI8SnAxSSuaKH0lyQg_f7Etf_pqJ-WchpL6OgVF2SBoLHh53ST_2nzzvK1qWNVgk4hZZhzVo1matCM980PFYjN3yOVikg/s1600/pg-gundam-exia-regular-edition+%25281%2529.jpg"
+    },
+    {
+      "id": 7,
+      "name": "PG Astray Red Frame (1/60)",
+      "description": "A standout kit with its massive katana and sleek design.",
+      "price": 9999.99,
+      "remaining_stock": 5,
+      "image": "https://mechahangar317.net/wp-content/uploads/2024/02/pg-astrayr-boxart.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PG Wing Gundam Zero Custom (1/60)",
+      "description": "A large and impressive kit with angelic wings from Endless Waltz.",
+      "price": 11999.99,
+      "remaining_stock": 1,
+      "image": "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/728x728/products/20022/75358/776590_a__15718.1487667231.jpg?c=2"
+    },
+    {
+      "id": 9,
+      "name": "PG Gundam MK-II (1/60)",
+      "description": "Known for its sturdy build and striking design, an iconic suit from Zeta Gundam.",
+      "price": 10999.99,
+      "remaining_stock": 3,
+      "image": "https://gundam-store.dk/cdn/shop/products/pg-mk2a-boxart.jpg?v=1623353223&width=1500"
+    },
+    {
+      "id": 10,
+      "name": "PG Full Armor Unicorn Gundam (1/60)",
+      "description": "A heavily armed version of the Unicorn Gundam with an incredible display of weaponry.",
+      "price": 12999.99,
+      "remaining_stock": 2,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLNxCSOuWbf-_0LoME1UIWRvyQP29BGTWxe0NAbyFrqWramFujbQuClOgjGcbSIn2oT0I8SL5QwQ80ccKeyt-f2qVSftTmdUW_jfFLq9UCR1xQ-fKL2gnaXsgMyckRlQ-NpLDEYUGoQxE/s1600/Untitled-22.jpg"
+    }
+  ]
+}

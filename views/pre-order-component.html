@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/94d8d33acf.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Document</title>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <dialog id="form_modal" class="h-full w-screen top-0 left-0 p-0 m-0 bg-gray-700/95  items-center justify-center" style="z-index: 11;">
+        <span class="block"><i class="fa-solid fa-x absolute top-0 right-0 p-10 font-black text-red-500 text-2xl md:text-4xl" id="close-diag"></i></span>
+        <form action=" " class="md:w-full flex justify-center" id="payment_form">
+            <fieldset class="flex flex-col w-min md:w-3/4 xl:w-1/4 items-start gap-2 border-2 border-white p-5  text-white bg-gray-900 rounded-xl">
+                <legend class="text-2xl text-white font-semibold md:text-4xl">Payment Form</legend>
+                <input class="p-[5px] md:w-full text-black md:text-2xl" type="text" required placeholder="Name">
+                <input class="p-[5px] md:w-full text-black md:text-2xl"type="tel" required placeholder="Contact no.">
+                <input class="p-[5px] md:w-full text-black md:text-2xl"type="email" required placeholder="Email">
+                <fieldset class="border-2 border-white p-2 w-full md:text-2xl">
+                    <legend class="text-white ">Payment Options</legend>
+                    <input type="radio" id="Cash" name="paymentOp" value="Cash" required>
+                    <label for="Cash">Cash</label><br>
+                    <input type="radio" id="Credit/Debit Card" name="paymentOp" value="Credit/Debit" required>
+                    <label for="Credit/Debit">Credit/Debit Card</label><br>
+                    <input type="radio" id="Check" name="paymentOp" value="Check" required>
+                    <label for="Check">Check</label>
+                </fieldset>
+                <h1>Base Price</h1>
+                <input type="text" id="base-price" class="p-[5px] md:w-full md:text-2xl text-black" readonly>
+                <h1>Quantity</h1>
+                <input type="email" id="qty-total" class="p-[5px] md:w-full md:text-2xl text-black" readonly>
+                <h1>Total Price</h1>
+                <input type="text" id="total-price" class="p-[5px] md:w-full md:text-2xl text-black" readonly>
+                <input type="submit" value="Place Order" class="self-center bg-green-500 text-white drop-shadow-lg p-2 m-5 rounded-full md:text-2xl">
+            </fieldset>
+        </form>
+    </dialog>
+
+    <nav id="navbar" class="sticky top-0" style="z-index:1"></nav>
+    
+    <!-- Main content area -->
+    <div class="flex-grow  flex flex-col md:flex-row justify-center items-center py-5 gap-5 md:gap-16 lg:justify-evenly lg:gap-0">
+        <div class="w-56 h-56 md:w-96 md:h-96 lg:w-[500px] lg:h-[500px] bg-cover bg-center rounded-lg" id="item-image"></div>
+        <div class="flex flex-col justify-center items-center gap-5">
+            <div class="bg-blue-600 text-white p-2 rounded-lg italic font-medium lg:text-xl">Pre-order</div>
+            <h1 class="text-xl font-bold lg:text-3xl" id="item-name"></h1>
+            <h1 id="item-price" class="text-xl lg:text-2xl font-black"></h1>
+            <div class="flex flex-row gap-4">
+                <button id="sub" class="text-xl font-bold lg:text-3xl">-</button>
+                <p id="qty" class="text-xl lg:text-3xl"></p>
+                <button id="add" class="text-xl font-bold lg:text-3xl">+</button>
+            </div>
+            <button class="bg-blue-500 font-black text-white drop-shadow-lg p-3 text-lg rounded-full lg:text-2xl" id="buy-btn">Place Order</button>
+        </div>
+        
+    </div>
+      
+    <!-- Footer -->
+    <footer id="footer" class=""></footer>
+    
+    
+    <script src="/assets/js/loadNavBar.js"></script>
+    <script src="/assets/js/loadFooter.js"></script>
+    <script src="/assets/js/pre-order-system.js"></script>
+</body>
+</html>

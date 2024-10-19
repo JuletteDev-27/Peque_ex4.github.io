@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://youinjapan.net/yokohama/pics/gundam-factory-entrance.jpg",
+        "title": "About Us",
+        "description": "Learn more about our company",
+        "link": "/views/about-us.html"
+    },
+    {
+        "id": 2,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8dc-njAMb_k1cNG86JhHLLYjh5zAhyphenhyphenpAnajQsncigQ9QFfow7cwMIPpRKHsjVGHjrwBs-F5YK7JYa1_Rm2TrQzOX_4ycix6Owvvm6aCUmPihujgRLESY3MU3DWJOENjdwj1EFB6HN7Tvp9kbMLEfHsk_XV1GTMpvjlRBRf0Q8vVi6krGVQUa2bG6Hg/s16000-rw/gunpla%20history.png",
+        "title": "Our Kits",
+        "description": "Check out our products!",
+        "link": "/views/ourKits.html"
+    },
+    {
+        "id": 3,
+        "image": "https://pbs.twimg.com/media/EZ1fWgMVAAE_VTX.jpg:large",
+        "title": "Gallery",
+        "description": "Check out showcased Kits made by our customers",
+        "link": "/views/gallery.html"
+    },
+    {
+        "id": 4,
+        "image": "https://en.gundam.info/gundaminfo/jp/news/2024/09/240919_gunpla/OGP.jpg",
+        "title": "Contact Us",
+        "description": "Get in touch with our team and build your dream kit today!",
+        "link": "/views/contact-us"
+    }
+]
+
+

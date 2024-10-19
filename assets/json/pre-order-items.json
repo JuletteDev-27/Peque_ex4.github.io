@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimsvaRIM19yDjHtLzHbelBPyh0OUHWL72xoJ7q03MK0cmV3SQwJdde1qEzYwxD-cm0ikSFJIKl_DYyawYTe_8-q1QePU_eGy6kjY5cih2G9f7IQXcLUHipWGHgT7r11TQUXEaY9P3QrqU/s1600/mg-gundam-dynames-box-art.jpg",
+      "name": "MG 1/100 Gundam Dynames",
+      "grade": "Master Grade",
+      "scale": "1/100",
+      "pre_order_close_date": "2024-11-30",
+      "price": "2100 PHP",
+      "expected_release_date": "2025-03-15"
+    },
+    {
+      "id": 2,
+      "image": "https://external-preview.redd.it/x5qz83LxqJxaqElXASZ9b-KOMXumumAJktC_wa7zvdM.jpg?width=1080&crop=smart&auto=webp&s=a5a5709436b681e2c7d9829fc12c41a974f7ae47",
+      "name": "RG 1/144 God Gundam",
+      "grade": "Real Grade",
+      "scale": "1/144",
+      "pre_order_close_date": "2024-12-10",
+      "price": "1600 PHP",
+      "expected_release_date": "2025-02-10"
+    },
+    {
+      "id": 3,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNQxPIFATstNokfXttW4DvCzHmGTTM0m78MwjaZP3h2cYJbOnjs1TbPhc2v2Qd2R3qBLs3t8vTpoTlRJDHC70jIE7SR9YSMLHoGohu6cA_rq05udUeAaPMpzUWV_RCXQeGwlMw5HNGsL1BiSf6O73H9kVS9V5RxaOdeZE43gIUdVcLChKsk7CtE0M/s1501/mgex%20strike%20freedom%20gundam%20box%20art.JPG",
+      "name": "MGEX 1/100 Strike Freedom Gundam",
+      "grade": "Master Grade Extreme",
+      "scale": "1/100",
+      "pre_order_close_date": "2024-12-20",
+      "price": "4600 PHP",
+      "expected_release_date": "2025-04-01"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ebayimg.com/00/s/OTQ2WDE1MDA=/z/WSMAAOSwoQBmx1OW/$_12.JPG?set_id=880000500F",
+      "name": "HG 1/144 Zeta Gundam",
+      "grade": "High Grade",
+      "scale": "1/144",
+      "pre_order_close_date": "2024-11-25",
+      "price": "850 PHP",
+      "expected_release_date": "2025-01-05"
+    }
+  ]
